@@ -1,0 +1,1 @@
+//# sourceMappingURL=appointment.type.js.map
